@@ -4,10 +4,10 @@
   vars:
     topics: linux, shell, terraform, docker, ansible
     tagsMap:
-     name: ansible
-     project: roboshop
-     component: catalogue
-     tagsList: [
+      name: ansible
+      project: roboshop
+      component: catalogue
+    tagsList: [
                 {
                     "key": "name",
                     "value": "ansible"
