@@ -1,3 +1,4 @@
 COURSE: "DevOps with AWS"
-DURATION: 140 hours
-TRAINER: sivakumar
+DURATION: "140 hours"
+TRAINER": "sivakumar"
+NAME: "Ansible from FILE"
