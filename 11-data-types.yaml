@@ -8,10 +8,10 @@
    DETAILS:
     MONTHS: 4
     TRAINER: "sivakumar"
-  TOPICS:
-  - Linux
-  - Shell
-  - Ansible
+   TOPICS:
+    - Linux
+    - Shell
+    - Ansible
   tasks:
   - name: print variables
     ansible.builtin.debug:
