@@ -1,0 +1,389 @@
+- name: K. Hariram
+  user-id: hariramk
+  year-of-joining: 2016
+  programme: PhD
+  guide: Soumya Das
+  scholarship: IISc
+  image: true
+  office: R21(4)
+
+- name: Surjadipta De Sarkar
+  user-id: surjadiptade
+  year-of-joining: 2015
+  programme: Integrated PhD
+  guide: Arvind Ayyer
+  scholarship: IISc
+  office: N11(4)
+
+- name: Purba Banerjee
+  year-of-joining: 2017
+  programme: Integrated PhD
+  user-id: purbab
+  guide: M. K. Ghosh
+  scholarship: IISc
+  office: L26(4)
+
+- name: Karambir Das
+  year-of-joining: 2020
+  programme: Integrated PhD
+  user-id: karambirdas
+  image: true
+  office: X20(6)
+
+- name: Maniyar Sourish Parag
+  year-of-joining: 2020
+  programme: Integrated PhD
+  user-id: sourishparag
+  image: true
+  office: X20(6)
+
+- name: Rieshikesh Rajendra Ghatage
+  year-of-joining: 2020
+  programme: Integrated PhD
+  user-id: rieshikeshr
+  image: true
+  office: X20(6)
+
+- name: Subhajit Das
+  year-of-joining: 2020
+  programme: PhD
+  user-id: subhajitdas
+  image: true
+  office: N11(4)
+
+- name: Arnab Pal
+  year-of-joining: 2020
+  programme: PhD
+  user-id: arnabpalp
+  image: true
+  office: N04(6)
+
+- name: Lalit Thuwal
+  year-of-joining: 2021
+  programme: PhD
+  user-id: lalitthuwal
+  image: true
+  office: N04(6)
+
+- name: Arghyadeep Chatterjee
+  year-of-joining: 2021
+  programme: Integrated PhD
+  user-id: arghyadeepc
+  image: true
+  office: L21(4)
+
+- name: Ritabrata Das
+  year-of-joining: 2021
+  programme: PhD
+  user-id: ritabratadas
+  image: true
+  office: L26(4)
+
+- name: "<a href='https://sites.google.com/view/sudeshnabhattacharjee/home'>Sudeshna Bhattacharjee</a>"
+  year-of-joining: 2021
+  programme: PhD
+  user-id: sudeshnab
+  image: true
+  office: L26(4)
+
+- name: Ashutosh Suresh Jangle
+  year-of-joining: 2021
+  programme: PhD
+  user-id: ashutoshjs
+  image: true
+  office: X20(6)
+
+- name: Pratik Ashok Jadhav
+  year-of-joining: 2022
+  programme: PhD
+  user-id: pratikjadhav
+  image: true
+  office: L22(4)
+
+- name: Pallab Kumar Hembram
+  year-of-joining: 2022
+  programme: PhD
+  user-id: pallabh
+  image: true
+  office: L22(4)
+
+- name: Ajay Prajapati
+  year-of-joining: 2022
+  programme: PhD
+  user-id: ajayp
+  image: true
+  webpage: https://ajay731.github.io/ajayprajapati/
+  office: L22(4)
+
+- name: Rohit Mahato
+  year-of-joining: 2022
+  programme: Integrated PhD
+  user-id: rohitmahato
+  image: true
+  office: X22(6)
+
+- name: Sourav Ghosh
+  year-of-joining: 2022
+  programme: Integrated PhD
+  user-id: souravghosh1
+  image: true
+  office: N11(4)
+
+- name: Daksh Sultania
+  year-of-joining: 2022
+  programme: Integrated PhD
+  user-id: dakshs
+  image: true
+  office: N11(4)
+
+- name: Chavda Sahil Ramjibhai
+  year-of-joining: 2022
+  programme: Integrated PhD
+  user-id: sahilchavda
+  image: true
+  office: N11(4)
+
+- name: Supriya Saha
+  year-of-joining: 2022
+  programme: PhD
+  user-id: supriyasaha
+  image: true
+  office: L22(4)
+
+- name: Sudip Dolai
+  year-of-joining: 2022
+  programme: PhD
+  user-id: sudipdolai
+  image: true
+  office: L22(4)
+
+- name: Anantha Krishna B
+  year-of-joining: 2023
+  programme: PhD
+  user-id: ananthakb
+  image: true
+  office: L21(4)
+
+- name: Archana M P
+  year-of-joining: 2023
+  programme: PhD
+  user-id: archanam
+  image: true
+  office: L24(4)
+
+- name: Biplab Das
+  year-of-joining: 2023
+  programme: PhD
+  user-id: biplabdas
+  image: true
+  office: L21(4)
+
+- name: Damase Sujit Sakharam
+  year-of-joining: 2023
+  programme: PhD
+  user-id: sujits
+  image: true
+  office: L24(4)
+
+- name: Ritul
+  year-of-joining: 2023
+  programme: PhD
+  user-id: ritul2023
+  image: true
+  office: L21(4)
+
+- name: Ritvik Saharan
+  year-of-joining: 2023
+  programme: PhD
+  user-id: ritviks
+  image: true
+  office: L21(4)
+
+- name: Sayan Adhikari
+  year-of-joining: 2023
+  programme: PhD
+  user-id: sayana
+  image: true
+  office: L21(4)
+
+- name: Vyshnav V
+  year-of-joining: 2023
+  programme: PhD
+  user-id: vyshnavv
+  image: true
+  office: R22
+
+- name: Rudranil Sahu
+  year-of-joining: 2023
+  programme: Integrated PhD
+  user-id: rudranilsahu
+  image: true
+  office: L21(4)
+
+- name: Saham Sil
+  year-of-joining: 2023
+  programme: Integrated PhD
+  user-id: sahamsil
+  image: true
+  office: L21(4)
+  
+- name: Sachin Shukla
+  year-of-joining: 2024
+  programme: PhD
+  user-id: sachinshukla
+  image: true
+  office: X21
+
+- name: Muhammed Faheem A T
+  year-of-joining: 2024
+  programme: PhD
+  user-id: faheemat
+  image: true
+  office: X22
+
+- name: Shubhanshu Prasad
+  year-of-joining: 2024
+  programme: PhD
+  user-id: shubhanshup
+  image: true
+  office: R24
+
+- name: Sohan Manna
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: sohanmanna
+  image: true
+  office: To be allotted
+
+- name: Arpan Pal
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: arpanpal
+  image: true
+  office: To be allotted
+
+- name: Amit Giri
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: amitgiri
+  image: true
+  office: To be allotted
+
+- name: Kedar Desai
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: kedardesai
+  image: true
+  office: To be allotted
+
+- name: Ayon Chowdhury
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: ayonc
+  image: true
+  office: To be allotted
+
+- name: Sufaid Saleel
+  year-of-joining: 2024
+  programme: Integrated PhD
+  user-id: sufaidsaleel
+  image: true
+  office: To be allotted
+  
+- name: Nabarun Sarkar
+  year-of-joining: 2025
+  programme: PhD
+  user-id: snabarun
+  image: true
+  office: To be allotted
+
+- name: Nilaksh Pundir
+  year-of-joining: 2025
+  programme: PhD
+  user-id: nilakshp
+  image: true
+  office: To be allotted
+
+- name: Satya Ranjan Ray Choudhary
+  year-of-joining: 2025
+  programme: PhD
+  user-id: satyar
+  image: true
+  office: To be allotted
+
+- name: Subhadeep Mandal
+  year-of-joining: 2025
+  programme: PhD
+  user-id: subhadeepm
+  image: true
+  office: To be allotted
+
+- name: Swathi B
+  year-of-joining: 2025
+  programme: PhD
+  user-id: swathib
+  image: true
+  office: To be allotted
+
+- name: Anshuman Agrawal
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: anshumana
+  image: true
+  office: To be allotted
+
+- name: Chandra Shekhar
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: chandra1
+  image: true
+  office: To be allotted
+
+- name: Ishan Chakraborty
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: ishanc
+  image: true
+  office: To be allotted
+
+- name: Mohideen Asif K. A.
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: mohideenka
+  image: true
+  office: To be allotted
+
+- name: Richik Samanta
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: richiks
+  image: true
+  office: To be allotted
+
+- name: Sagnik Saha
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: sagniksaha
+  image: true
+  office: To be allotted
+
+- name: Saheb Dhar
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: sahebdhar
+  image: true
+  office: To be allotted
+
+- name: Suchetana Sen
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: suchetanasen
+  image: true
+  office: To be allotted
+
+- name: Vaibhavi Shetty
+  year-of-joining: 2025
+  programme: Integrated PhD
+  user-id: vaibhavis
+  image: true
+  office: To be allotted
